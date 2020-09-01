@@ -5,14 +5,14 @@
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Shivani Shah",
+        "url": "https://sshah75.github.io/Shah-Cognitive-Psychology/"
       }
     ],
     "date": "2020-09-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-01T00:42:56-04:00",
-    "input_file": {}
+    "last_modified": "2020-09-01T00:53:09-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
