@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "What is Cognitive Psychology?",
+    "description": "Here's what I hope to learn in this Cognitive Psychology course.",
     "author": [
       {
         "name": "Shivani Shah",
@@ -12,7 +12,7 @@
     "date": "2020-09-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-01T00:57:27-04:00",
+    "last_modified": "2020-09-01T13:11:01-04:00",
     "input_file": "welcome.utf8.md"
   },
   {

@@ -1,8 +1,7 @@
 ---
-title: "Welcome to My Blog"
+title: "What is Cognitive Psychology?"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Here's what I hope to learn in this Cognitive Psychology course.
 author:
   - name: Shivani Shah
     url: https://sshah75.github.io/Shah-Cognitive-Psychology/
@@ -22,4 +21,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-This is my first post.
+Like many, my exposure to cognitive psychology has been limited to a foundational undergraduate course. When I think of cognitive psychology, I immediately picture the brain and associate it with learning, memory, thinking, and creativity. While these are simply buzzwords that don't really provide more insight into the field, I do know that this course will actually help me to understand the underlying processes that are involved in cognition. I am currently pursuing a PhD in I-O psychology, another subfield of psychology that is more applied in nature. However, understanding the cognition and cognitive psychology is inherently a human process; all human beings have the ability to think, memorize, learn, and be creative. With this in mind, the science behind these processes (which I hope to learn from this course) will inform my understanding of the way people think and function in the workplace. I'm excited to learn more and engage in discussions that will help me understand why biases exist, why some people think certain ways, why perceptions of others are one way versus another. Cognitive psychology will definitely aid in understanding people and contribute to the general goal of psychology: understanding human behavior. 
