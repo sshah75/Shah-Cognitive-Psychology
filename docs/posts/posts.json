@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "What is Cognitive Psychology?",
-    "description": "Here's what I hope to learn in this Cognitive Psychology course.",
+    "path": "posts/First Week's Readings/",
+    "title": "First Week's Readings",
+    "description": "Here are some thoughts on this week's readings. While this is one of my first times reading these classic cognitive science pieces, some concepts did seem familiar from my past courses that I've taken.",
     "author": [
       {
         "name": "Shivani Shah",
@@ -12,23 +12,7 @@
     "date": "2020-09-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-01T13:11:01-04:00",
-    "input_file": "welcome.utf8.md"
-  },
-  {
-    "path": "posts/9-4-2020 Post1/",
-    "title": "Welcome to My Blog",
-    "description": "This is a second post.",
-    "author": [
-      {
-        "name": "Shivani Shah",
-        "url": "https://sshah75.github.io/Shah-Cognitive-Psychology/"
-      }
-    ],
-    "date": "2020-09-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-09-01T01:07:47-04:00",
+    "last_modified": "2020-09-02T00:39:50-04:00",
     "input_file": "welcome.utf8.md"
   }
 ]

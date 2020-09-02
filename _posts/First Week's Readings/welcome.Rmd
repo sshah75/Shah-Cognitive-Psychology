@@ -1,0 +1,32 @@
+---
+title: "First Week's Readings"
+description: |
+   Here are some thoughts on this week's readings. While this is one of my first times reading these classic cognitive science pieces, some concepts did seem familiar from my past courses that I've taken. 
+author:
+  - name: Shivani Shah
+    url: https://sshah75.github.io/Shah-Cognitive-Psychology/
+    affiliation: Baruch College
+    affiliation_url: https://baruch.cuny.edu
+date: 09-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Miller (1956), Newell (1973), and Schacter et al. (1978) are three pieces of cognitive psychology literature that definitely seem complicated to fully grasp, but continue to be cited and analyzed today. Based on my understanding, these are three core readings to any cognitive psychologist, and it would be to my benefit to understand them (or attempt to, rather). However, some takeaways that I took from these readings are the following: 
+
+1.) Research in psychology has a long way to go. According to Newell's (1973) commentary, psychologists are able to conduct interesting and meaningful experiments, but tend to overanalyze and focus on individual phenomena. Essentially, people can do the same task in different ways, which ultimately can hinder us from moving forward since nothing new is contributed. 
+
+2.) Miller (1956) was actually a paper I was already somewhat familiar with. In this paper, he discusses the limits of short-term memory and one-dimensional absolute judgment. He additionally focuses on how our memory span is also limited. Particularly, he focuses on "chunking" which is a process that human beings use for easy recall of information. While research has revaled that memory span is not constant, Miller (1956) did provide us with insight into how human beings process information and attempt to remember and recall in ways that makes it easier for them. What I particularly enjoy about this paper is the emphasis on chunking, or rather the introduction of chunking. The concept of chunking seems to be simplistic on a surface level, but when we delve into it, it's so much more complex than we realize. Clearly, cognitive psychology is no joke and the way human beings think (which is something that we are not actively aware of) is extremely intricate, even though we attempt to categorize and organize these processes in more manageable ways. 
+
+3.) Finally, Schacter et al. (1978)'s paper discusses Semon's theory of memory. Unfortunately, the paper highlights that the theory is virtually unknown today. Apparently, Semon was a proponent of organic memory (believe that all organic matter contains memory). This belief was widely discredited, even though it is interesting to think about. Semon believed in engrams, defined as the units the brain uses to store cognitive information and how memories are stored. Although his theory is not well-known and basically discredited (to my understanding), it did provide interesting insight into the way research was done previously on the way human beings think. 
+
+While I may not have properly grasped what these readings were trying to convey, I think that these foundational understandings of cognitive psychology, particularly with memory and thinking do provide an overview that I can use to build off. Essentially, my reaction to these readings is that cognitive psychology is difficult. That's not unexpected, though. Never in a million years would I assume that human beings are simplistic. Unfortunately, we are complex and there are certain things we will never truly know or understand. However, I do think that understanding cognition to the best of my ability will serve as a first step. 
