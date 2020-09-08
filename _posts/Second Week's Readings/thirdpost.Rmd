@@ -1,0 +1,28 @@
+---
+title: "Second Week's Readings"
+description: |
+   This week's readings definitely were much more difficult to understand. However, in terms of cognitive science research, it's interesting to see how Hintzman (1986) compared to the more recently published studies conducted by Aujla et al. (2019) and Crump, Lai, and Brosowsky (2019). What I took away from these readings is that cognitive research is constantly changing and is heavily impacted by technology and the changing nature of the world, as is most scientific research. 
+author:
+  - name: Shivani Shah
+    url: https://sshah75.github.io/Shah-Cognitive-Psychology/
+    affiliation: Baruch College
+    affiliation_url: https://baruch.cuny.edu
+date: 09-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+My thoughts on Hintzman (1986) are a bit jumbled. Basically, I did see some comparisons with the theories they were describing with the reading from last week that provided an overview of Semon's theory of memory. The main difference, however, is that Semon strictly relied on memory stemming from sensory features, while the theory described in this paper highlights that there are many abstract features of experience. The jist of what Hintzman was saying (at least to my understanding) is that memory is fluid. Memory is heavily context dependent and does not exist in hierarchies. The MINERVA 2 model essentially states that even when we encounter similar stimuli that we have already created episodic traces of, a new memory is formed. Memories are not replaced by new memories, but rather we create an assemblage of these memories and all memories are activated when we encounter similar stimuli. However, my understanding of this paper, once again is a bit jumbled. I did find it interesting and I wonder how memory functions in the brains of those who are suffering from PTSD. What I can tell is the memories of a traumatic event are never going to be replaced, but are suppressed. Is this why there are certain "triggers" of this traumatic event, where similar stimuli/events are stored in the same way and activate memories of this past incident? I'm not sure if I'm understanding correctly, but I'd definitely want to revist this topic to understand the functioning of the brain of someone suffering from a mental illness. 
+
+The other two papers were intriguing, as well (maybe since they were much, much more difficult to comprehend). However, what struck out to me most was how deeply technological advances have affected cognitive science research. Specifically, Aujla et al. (2019) highlighted how basic cognitive science can be used to inform search engine design. Essentially, the authors created a search engine that provides information about the quality and semantic differences between abstracts of papers published in cognitive psychology journals. What's really cool about this is how foundational theories in cognitive psychology can be directly applied in the now, extremely data-driven world we live in. Crump, Lai, and Brosowsky (2019) also highlight how older theories (i.e., information theory) can inform current, data-driven research and how this is the new revolution in cognitive science research. 
+
+My main takeaways from these readings generally are that memory is fluid and that previous research findings continue to impact and interact with new advances in cognitive psychology. 

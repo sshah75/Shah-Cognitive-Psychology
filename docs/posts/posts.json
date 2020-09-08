@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Second Week's Readings/",
+    "title": "Second Week's Readings",
+    "description": "This week's readings definitely were much more difficult to understand. However, in terms of cognitive science research, it's interesting to see how Hintzman (1986) compared to the more recently published studies conducted by Aujla et al. (2019) and Crump, Lai, and Brosowsky (2019). What I took away from these readings is that cognitive research is constantly changing and is heavily impacted by technology and the changing nature of the world, as is most scientific research.",
+    "author": [
+      {
+        "name": "Shivani Shah",
+        "url": "https://sshah75.github.io/Shah-Cognitive-Psychology/"
+      }
+    ],
+    "date": "2020-09-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-08T17:15:05-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/First Week's Readings/",
     "title": "First Week's Readings",
     "description": "Here are some thoughts on this week's readings. While this is one of my first times reading these classic cognitive science pieces, some concepts did seem familiar from my past courses that I've taken.",
@@ -29,6 +45,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-09-02T10:53:35-04:00",
-    "input_file": "welcome.utf8.md"
+    "input_file": {}
   }
 ]
